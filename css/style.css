@@ -689,32 +689,32 @@ body {
 }
 
 .sponsor-logo.main-sponsor {
-  width: 320px;
-  height: 120px;
+  width: 360px;
+  height: 160px;
   border: 2px solid var(--blue-light);
 }
 
 .sponsor-logo.gold {
-  width: 200px;
-  height: 100px;
+  width: 240px;
+  height: 140px;
   border: 2px solid #f9a825;
 }
 
 .sponsor-logo.silver {
-  width: 170px;
-  height: 85px;
+  width: 200px;
+  height: 120px;
   border: 2px solid #b0bec5;
 }
 
 .sponsor-logo.bronze {
-  width: 150px;
-  height: 75px;
+  width: 170px;
+  height: 100px;
   border: 1px solid #d7ccc8;
 }
 
 .sponsor-logo.token {
-  width: 140px;
-  height: 70px;
+  width: 160px;
+  height: 100px;
   border: 1px solid #b2dfdb;
 }
 
@@ -1018,18 +1018,28 @@ body {
   }
 
   .sponsor-logo.main-sponsor {
-    width: 260px;
-    height: 100px;
+    width: 300px;
+    height: 130px;
   }
 
   .sponsor-logo.gold {
-    width: 160px;
-    height: 80px;
+    width: 200px;
+    height: 110px;
   }
 
   .sponsor-logo.silver {
+    width: 170px;
+    height: 100px;
+  }
+
+  .sponsor-logo.bronze {
     width: 140px;
-    height: 70px;
+    height: 85px;
+  }
+
+  .sponsor-logo.token {
+    width: 140px;
+    height: 85px;
   }
 }
 
@@ -1058,12 +1068,17 @@ body {
   }
 
   .sponsor-logo.gold {
-    width: 130px;
-    height: 65px;
+    width: 160px;
+    height: 90px;
   }
 
   .sponsor-logo.bronze {
+    width: 130px;
+    height: 75px;
+  }
+
+  .sponsor-logo.token {
     width: 120px;
-    height: 60px;
+    height: 70px;
   }
 }
